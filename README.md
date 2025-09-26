@@ -32,9 +32,13 @@ This app integrates with **Google Gemini API** to provide intelligent feedback, 
 ### **Prerequisites**
 - Node.js (LTS version recommended)
 - Gemini API key
+Run Locally
+Prerequisites: Node.js
+- Install dependencies: npm install
+- Set the GEMINI_API_KEY in .env.local to your Gemini API key
+- Run the app: npm run dev
 
-### **Steps**
-
+---
 1. Clone the project:
    ```bash
    git clone https://github.com/gdvtramarao/ai-tutor.git

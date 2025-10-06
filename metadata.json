@@ -1,0 +1,5 @@
+{
+  "name": "Updated AI Tutor for Coding",
+  "description": "An AI-powered coding tutor that takes student code, detects errors, explains them in simple terms, and suggests improvements for multiple programming languages. Features gamified learning and a personalized dashboard.",
+  "requestFramePermissions": []
+}

@@ -10,8 +10,10 @@ MasterCode AI — an AI-powered coding assistant for interactive learning and in
 
 ## 📸 Screenshots
 
-<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/1272c86a-f74c-4d74-bf7e-357500a42f3b" />
-<img width="1897" height="807" alt="image" src="https://github.com/user-attachments/assets/92a70edd-860c-4bc8-af63-bdd0269720d3" />
+<img width="1911" height="865" alt="image" src="https://github.com/user-attachments/assets/3d7fffa5-5d4b-41a0-8123-2b4a909aa4d9" />
+
+<img width="1908" height="875" alt="image" src="https://github.com/user-attachments/assets/15302f27-3576-40bf-8f41-5ee369edc344" />
+
 
 ---
 
